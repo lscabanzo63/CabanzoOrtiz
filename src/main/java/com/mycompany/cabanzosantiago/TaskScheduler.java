@@ -5,8 +5,10 @@
 package com.mycompany.cabanzosantiago;
 
 /**
- *
+ * 
  * @author sala4
+ * @author Cabanzo Ortiz Leider Santiago
+ * 1001051106: Realiza los pares
  */
 public class TaskScheduler {
   public void tic(){
